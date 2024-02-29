@@ -21,3 +21,4 @@ Open the YouTube Clone App on any device, and experience the responsive design t
 High-Quality Video Playback:
 Navigate to the video of your choice.
 Enjoy high-quality video playback, experiencing content in vivid detail and clarity.
+![look](https://github.com/Nitya-Mishra/Youtube_clone_app/assets/145335583/06f98bee-d2fe-4e14-97f8-20dbda847b6c)
